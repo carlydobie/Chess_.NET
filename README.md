@@ -1,4 +1,4 @@
-# Visual C# Chess
+# .NET/C# Chess
 
 A chess game created for CSCI 473 at Northern Illinois University.
 
